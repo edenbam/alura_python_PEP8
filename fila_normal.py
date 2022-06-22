@@ -1,4 +1,4 @@
-class filanormal:
+class FilaNormal:
     codigo:int = 0
     fila = []
     clientesatendidos = []
